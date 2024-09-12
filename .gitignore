@@ -27,7 +27,5 @@ vue_blueprint/cypress/screenshots/
 .vscode/*
 !.vscode/extensions.json
 *.tsbuildinfo
-package-lock.json
 jsconfig.json
-package.json
 .eslintrc.cjs
